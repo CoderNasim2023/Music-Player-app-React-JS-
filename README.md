@@ -23,17 +23,18 @@ Clone the repository:
 
 Bash
 
-git clone https://github.com/[YourGitHubUsername]/[YourRepositoryName].git
-Replace [YourGitHubUsername] and [YourRepositoryName] with your actual GitHub username and repository name.
+git clone https://github.com/CoderNasim2023/Music-Player-app-React-JS-.git
+Replace [CoderNasim2023] and [Music-Player-app-React-JS-] with your actual GitHub username and repository name.
 
 Navigate to the project directory:
 
 Bash
 
-cd [YourRepositoryName]
+cd [Music-Player-app-React-JS-]
 Install dependencies:
+npm install
 
-Bash
+Bash/CMD/Powershell etc
 
 # Example for Node.js projects
 npm install
@@ -41,7 +42,7 @@ npm install
 💡 How to Contribute
 We welcome contributions of all kinds! Here’s how you can help:
 
-Fork the Repository: Start by forking the [YourRepositoryName] repository to your own GitHub account.
+Fork the Repository: Start by forking the [Music-Player-app-React-JS-] repository to your own GitHub account.
 
 Create a New Branch: For each feature or bug fix, create a new branch from main (or master):
 
@@ -82,7 +83,8 @@ Open an Issue: If you find a bug, have a feature request, or need clarification,
 Discussions: (If applicable) Join our Discussions section for broader conversations and community support.
 
 📄 License
-This project is licensed under the [Your License Here] - see the LICENSE file for details.
+This project is licensed under the [GNU General Public License (GPL) v3:] - see the LICENSE file for details.
+GNU General Public License (GPL) v3:
 
 💖 Star the Repo!
 If you find this project helpful or interesting, please consider starring it on GitHub! ⭐
