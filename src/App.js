@@ -64,7 +64,7 @@ function App() {
       setIsLoading(true);
       try {
         const response = await fetch("https://accounts.spotify.com/api/token", {
-          method: "POST",  //Post http request
+          method: "POST",
           headers: {
             "Content-Type": "application/x-www-form-urlencoded",
           },
