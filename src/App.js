@@ -1,3 +1,4 @@
+//app.js file
 import "./App.css";
 import { useContext, useEffect, useState } from "react";
 import Card from "./components/Card";
