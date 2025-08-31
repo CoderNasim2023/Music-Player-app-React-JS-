@@ -31,7 +31,7 @@ function LikedMusic() {
       ) : (
         <div>
           <h1 className="text-danger text-center py-3">
-            Your Liked Music <i className="bi bi-heart-fill text-danger"></i>
+            Your Liked Songs <i className="bi bi-heart-fill text-danger"></i>
           </h1>
         </div>
       )}

@@ -36,7 +36,7 @@ function App() {
       );
 
       if (!response.ok) {
-        throw new Error("Failed to fetch music data");
+        throw new Error("Failed in fetching music data");
       }
 
       const jsonData = await response.json();
@@ -126,7 +126,7 @@ function App() {
               className="btn btn-outline-success w-100"
               disabled={resultOffset === 0}
             >
-              Previous Next Page: {resultOffset / 20}
+              Previous Page: {resultOffset / 20}
             </button>
           </div>
           <div className="col">
@@ -150,19 +150,20 @@ function App() {
           <div className="col-12 py-5 text-center">
             <h1>
               <i className="bi bi-music-note-list mx-3"></i>
-             Welcome to  Resso-music
+              Welcome to  Onemusic
             </h1>
-            <h3 className="py-5"> Find Your Favourite music in 30 seconds</h3>
-            {/* <div>
+            <h3 className="py-5"> Find Your Favourite music in 10 seconds</h3>
+            <div>
               <a
                 target="_blank"
                 rel="noreferrer"
                 className="btn btn-outline-dark"
-                href="https://github.com/Vishesh-Pandey/v-music"
+                href="https://github.com/CoderNasim2023/Music-Player-app-React-JS-"
               >
-                <i className="bi bi-github mx-2"></i>Github
+                <i className="bi bi-github mx-2"></i>Do Contribution on  this  project
               </a>
-            </div> */}
+            </div>
+
           </div>
         </div>
       </div>
@@ -173,7 +174,7 @@ function App() {
         aria-labelledby="exampleModalLabel"
         aria-hidden="true"
       >
-        <CreatePlaylist />
+        <CreatePlaylist  />
       </div>
     </>
   );
