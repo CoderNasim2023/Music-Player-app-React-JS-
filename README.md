@@ -7,6 +7,11 @@ I'm  truly appreciate your efforts and dedication. Here's a little something to 
 
 ![thanks-for-contributing-mandy](https://github.com/user-attachments/assets/51d8636e-e556-4bff-a8d1-e6716ce45f8d)
 
+
+
+💖 Star the Repo!
+If you find this project helpful or interesting, please consider starring it on GitHub! ⭐
+
 🤝 Need Help or Have Questions?
 Open an Issue: If you find a bug, have a feature request, or need clarification, please open a new issue on GitHub.
 
@@ -16,7 +21,7 @@ Discussions: (If applicable) Join our Discussions section for broader conversati
 This project is licensed under the [GNU General Public License (GPL) v3:] - see the LICENSE file for details.
 GNU General Public License (GPL) v3:
 
-💖 Star the Repo!
+
 
 
 
